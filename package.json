@@ -10,7 +10,7 @@
   "dependencies": {
     "flumeview-query": "^6.0.0",
     "map-filter-reduce": "^2.0.0",
-    "ssb-msgs": "^5.2.0"
+    "ssb-msgs": "github:ssbc/ssb-msgs#fix-broken-mentions"
   },
   "devDependencies": {},
   "scripts": {
